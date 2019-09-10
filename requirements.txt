@@ -1,0 +1,4 @@
+requests
+pysocks
+tinydb==3.13.0
+
